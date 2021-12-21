@@ -16,7 +16,7 @@ Tenho 22 anos atualmente sou estudante de Desenvolvimento de Sistemas e Web em b
 <section>
 <img src="https://github.com/alexanLO/img/blob/main/java.png" alt="java" width="70">
 <img src="https://github.com/alexanLO/img/blob/main/MYSQL.png" alt="mysql" width="90">
-<img src="https://github.com/alexanLO/img/blob/main/BDD.png" alt="banco de dados" width="140">
+<img src="https://github.com/alexanLO/img/blob/main/BDD.png" alt="banco de dados" width="160">
 </section>
 
 ## Principais Hard Skills:
@@ -34,8 +34,8 @@ Tenho 22 anos atualmente sou estudante de Desenvolvimento de Sistemas e Web em b
 
 ## GitHub Analytics
 
-<div align="center">
+<section align="center">
   <a href="https://github.com/alexanLO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanLO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanLO&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</section>

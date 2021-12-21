@@ -13,6 +13,7 @@ Tenho 22 anos atualmente sou estudante de Desenvolvimento de Sistemas e Web em b
 </section>
 
 ### Estudando no momento:
+
 <section>
 <img src="https://github.com/alexanLO/img/blob/main/java.png" alt="java" width="70">
 <img src="https://github.com/alexanLO/img/blob/main/MYSQL.png" alt="mysql" width="90">
@@ -20,12 +21,15 @@ Tenho 22 anos atualmente sou estudante de Desenvolvimento de Sistemas e Web em b
 </section>
 
 ## Principais Hard Skills:
+
 <section>
 <img src="https://github.com/alexanLO/img/blob/main/html.png" alt="html" width="70">
 <img src="https://github.com/alexanLO/img/blob/main/css.png" alt="css" width="70">
 <img src="https://github.com/alexanLO/img/blob/main/js.png" alt="javascript" width="140">
 </section>
+
 ## Ferramentas:
+
 <section>
 <img src="https://github.com/alexanLO/img/blob/main/vs.png" alt="visual studio code" width="140">
 <img src="https://github.com/alexanLO/img/blob/main/git.png" alt="git" width="70">

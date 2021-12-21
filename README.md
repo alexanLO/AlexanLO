@@ -34,3 +34,8 @@ Tenho 22 anos atualmente sou estudante de Desenvolvimento de Sistemas e Web em b
 
 ## GitHub Analytics
 
+<div align="center">
+  <a href="https://github.com/alexanLO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanLO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanLO&layout=compact&langs_count=7&theme=dracula"/>
+</div>

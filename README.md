@@ -1,31 +1,36 @@
-## Olá! Eu sou Alexan Lima 💕
+# Olá! Eu sou Alexan Lima 💕
+
 
 ### Sobre Mim:
 
 Tenho 22 anos atualmente sou estudante de Desenvolvimento de Sistemas e Web em busca da minha primeira oportunidade em me desenvolver como uma profissional da area FullStack, também sou apaixonada por arte, programação, tecnologia, jogos, animes e animais.
 
+
+#### Contato:
+
+<section>
+<a href="https://www.linkedin.com/in/alexan-limaa/" margin="5"><img src="https://github.com/alexanLO/img/blob/main/linkedin.png" alt="" width="40"></a>
+</section>
+
 ### Estudando no momento:
+<section>
+<img src="https://github.com/alexanLO/img/blob/main/java.png" alt="java" width="70">
+<img src="https://github.com/alexanLO/img/blob/main/MYSQL.png" alt="mysql" width="90">
+<img src="https://github.com/alexanLO/img/blob/main/BDD.png" alt="banco de dados" width="140">
+</section>
 
-![GitHub](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+## Principais Hard Skills:
+<section>
+<img src="https://github.com/alexanLO/img/blob/main/html.png" alt="html" width="70">
+<img src="https://github.com/alexanLO/img/blob/main/css.png" alt="css" width="70">
+<img src="https://github.com/alexanLO/img/blob/main/js.png" alt="javascript" width="140">
+</section>
+## Ferramentas:
+<section>
+<img src="https://github.com/alexanLO/img/blob/main/vs.png" alt="visual studio code" width="140">
+<img src="https://github.com/alexanLO/img/blob/main/git.png" alt="git" width="70">
+<img src="https://github.com/alexanLO/img/blob/main/figm.png" alt="figma" width="90">
+</section>
 
+## GitHub Analytics
 
-<!--
-### Git Analytics:
-
-
-<br>
-<p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesdevbr&theme=radical&layout=compact" height="149px" />
-  &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=herculesdevbr&show_icons=true&title_color=f7418a&icon_color=BBB&text_color=BBB&bg_color=141321&include_all_commits=true" height="149px" />
-</p>
-
-<p float="left" align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=herculesdevbr&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="251px" />
-  &nbsp; &nbsp;
-
-<div align="center">
-  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=herculesdevbr&theme=monokai&show_icons=true" />
-</div>
-</p>
--->

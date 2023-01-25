@@ -3,7 +3,7 @@
 
 ### Sobre Mim:
 
-Tenho 22 anos atualmente sou estudante de Interdiciplinar em Ciências e Tecnologia em busca da minha primeira oportunidade em me desenvolver como uma profissional na area de tecnologia, também sou apaixonada por arte, jogos, animes e animais.
+Tenho 23 anos atualmente sou estudante de Interdiciplinar em Ciências e Tecnologia em busca da minha primeira oportunidade em me desenvolver como uma profissional na area de tecnologia, também sou apaixonada por arte, jogos, animes e animais.
 
 
 #### Contato:

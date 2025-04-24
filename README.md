@@ -3,7 +3,7 @@
 
 ### Sobre Mim:
 
-Tenho 23 anos atualmente sou estudante de Interdiciplinar em Ciências e Tecnologia em busca da minha primeira oportunidade em me desenvolver como uma profissional na area de tecnologia, também sou apaixonada por arte, jogos, animes e animais.
+Tenho 25 anos, atualmente sou estudante de Bacharelado Interdiciplinar em Ciências e Tecnologia, tive minha primeira experiencia profissional em 2023 em um projeto de um Banco, também sou apaixonada por arte, jogos, animes e animais.
 
 
 #### Contato:

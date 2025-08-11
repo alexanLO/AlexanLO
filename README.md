@@ -1,56 +1,67 @@
-# Olá! Eu sou Alexan Lima 💕
+# 👋 Olá! Eu sou **Alexan Lima** 💕
 
+## 🧩 Sobre Mim
 
-### Sobre Mim:
+Sou estudante de **Ciência e Tecnologia pela UFBA**, apaixonada por **desenvolvimento de software**, com foco principal em **back-end**.
+Atualmente trabalho com **Java**, **Spring Boot**, **APIs REST** e **bancos de dados**, sempre priorizando boas práticas, código limpo e sustentável. Tenho grande interesse por **acessibilidade digital** e **desenvolvimento inclusivo**, buscando construir soluções que façam a diferença na vida das pessoas.
+Além disso, estou explorando o universo da **criação de jogos**, com o objetivo de unir minha paixão por tecnologia e criatividade para me tornar uma **DevGamer**.
+Estou em busca de oportunidades que me desafiem, onde eu possa **aprender, crescer e colaborar** em projetos com propósito e impacto real.
 
-Tenho 25 anos, atualmente sou estudante de Bacharelado Interdiciplinar em Ciências e Tecnologia, tive minha primeira experiencia profissional em 2023 em um projeto de um Banco, também sou apaixonada por arte, jogos, animes e animais.
+---
 
+## 📬 Contato
 
-#### Contato:
+<a href="https://www.linkedin.com/in/alexan-limaa/" target="_blank">
+  <img src="https://github.com/alexanLO/img/blob/main/linkedin.png" alt="LinkedIn" width="40"/>
+</a>
 
-<section>
-<a href="https://www.linkedin.com/in/alexan-limaa/" margin="5"><img src="https://github.com/alexanLO/img/blob/main/linkedin.png" alt="" width="40"></a>
-</section>
+---
 
-## 📚 Estudando no momento:
+## 📚 Estudando no momento
 
 - 🧠 **Design Patterns**
 - 🏛️ **Arquitetura de Software**
 - 🧩 **Microsserviços**
 - 🔐 **Segurança Profunda**
 
-## Principais Hard Skills:
+---
+
+## 💼 Principais Hard Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="JPA/Hibernate" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/json--v1.png" alt="JSON" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/lombok.png" alt="Lombok" width="40"/> <!-- Esse pode não existir. Alternativa é um emoji/texto -->
-  <img src="https://img.icons8.com/color/48/000000/maven.png" alt="Maven" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="JUnit 5 / Mockito" width="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/layers.png" alt="Arquitetura Hexagonal" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="30" alt="JPA / Hibernate"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/json--v1.png" width="30" alt="JSON"/>
+  <img src="https://img.icons8.com/color/48/000000/lombok.png" width="30" alt="Lombok"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" width="30" alt="Maven"/>
+  <img src="https://img.icons8.com/fluency/48/000000/test-tube.png" width="30" alt="JUnit 5 / Mockito"/>
+  <img src="https://img.icons8.com/ios/50/layers.png" width="30" alt="Arquitetura Hexagonal"/>
 </p>
 
-## Ferramentas:
+---
+
+## 🛠️ Ferramentas
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/api.png" alt="Insomnia" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/jira.png" alt="Jira" width="40"/>
-  <img src="https://img.icons8.com/windows/32/bitbucket.png" alt="Bitbucket" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-sonarqube-an-open-source-platform-for-continuous-inspection-of-code-quality-logo-shadow-tal-revivo.png" alt="SonarQube" width="40"/>
-  <img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-nexus-coding-and-development-outline-outline-juicy-fish.png" alt="Nexus" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30" alt="IntelliJ"/>
+  <img src="https://img.icons8.com/color/48/000000/api.png" width="30" alt="Insomnia"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/jira.png" width="30" alt="Jira"/>
+  <img src="https://img.icons8.com/windows/32/bitbucket.png" width="30" alt="Bitbucket"/>
+  <img src="https://img.icons8.com/fluency/48/sonarqube.png" width="30" alt="SonarQube"/>
+  <img src="https://img.icons8.com/ios/50/nexus.png" width="30" alt="Nexus"/>
 </p>
 
-## GitHub Analytics
+---
 
-<section align="center">
+## 📊 GitHub Analytics
+
+<div align="center">
   <a href="https://github.com/alexanLO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanLO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanLO&layout=compact&langs_count=7&theme=dracula"/>
-</section>
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanLO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanLO&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
